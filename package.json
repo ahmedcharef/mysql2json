@@ -1,0 +1,26 @@
+{
+  "name": "mysql2json",
+  "version": "1.0.0",
+  "description": "How to export MySql tables to JSON using NodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedcharef/mysql2json.git"
+  },
+  "keywords": [
+    "MySql"
+  ],
+  "author": "ahmed.charef",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedcharef/mysql2json/issues"
+  },
+  "homepage": "https://github.com/ahmedcharef/mysql2json#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mysql": "^2.15.0"
+  }
+}
